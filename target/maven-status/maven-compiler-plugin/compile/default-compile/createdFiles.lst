@@ -1,0 +1,9 @@
+calculator\Lexer.class
+calculator\Parser.class
+calculator\TokenManager.class
+calculator\Resolver.class
+calculator\ParseException.class
+calculator\Calculator.class
+calculator\LetNode.class
+calculator\Node.class
+calculator\ResolveException.class

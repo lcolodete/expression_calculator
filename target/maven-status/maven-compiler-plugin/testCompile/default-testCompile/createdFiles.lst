@@ -1,0 +1,5 @@
+calculator\test\TestParser.class
+calculator\test\TestResolver.class
+calculator\test\TestLexer.class
+calculator\test\TestCalculator.class
+calculator\test\TestTokenManager.class
